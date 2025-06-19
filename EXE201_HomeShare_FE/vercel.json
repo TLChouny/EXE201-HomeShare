@@ -1,5 +1,4 @@
 {
-  "root": "EXE201_HomeShare_FE",
   "builds": [
     {
       "src": "package.json",
